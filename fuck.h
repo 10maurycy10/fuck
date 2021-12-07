@@ -10,9 +10,10 @@
 #define 🖴 "%d"
 #define 🎛 %
 #define 🖚 printf("\n")
-#define 🎛 %
 #define 🎚 ;
 #define 🗘 while
 #define 🗦 }
 #define 🗧 {
 #define 🖕 ==
+#define 🗙 else
+#define 📋 if
